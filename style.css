@@ -127,9 +127,12 @@ body {
   opacity: 0.9;
 }
 
-.block p {
+.block a {
   font-size: 28px;
   margin: 10px 0 0;
+  display: block;
+  color: white;
+  text-decoration: none;
 }
 
 .bottom {
